@@ -21,7 +21,7 @@ Dashboard Pages
 | 2 | **Executive Summary** | Headline KPIs (Total Sales, Total Profit, Profit Margin %, Total Transactions), sales trend vs prior year, category mix, regional sales, monthly sales vs. target |
 | 3 | **Sales & Profitability** | Sales performance by representative, profit margin by category, price-volume relationship, region × category matrix, category sales trend by quarter, slicers for region/date/category |
 | 4 | **Customer & Channel Behaviour** | Sales by customer segment, channel performance by segment, payment method distribution, discount rate vs. target, sales driver decomposition tree |
-| 5 | **Sales Representative's Performance & Rankings** | Rep leaderboard (sales, profit, rank), 30-day rolling sales trend, total sales by rep, monthly sales trajectory, representative selector buttons, date range slicer |
+| 5 | **Sales Representative's Performance & Rankings** | Representatives leaderboard (sales, profit, rank), 30-day rolling sales trend, total sales by representatives, monthly sales trajectory, representative selector buttons, date range slicer |
 
 ---
 Data Model
